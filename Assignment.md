@@ -4,7 +4,6 @@
 > Pls upload the PDF in Google form link
 
 # 2 Case Study Documentation
-> Submit the Notion page link as the final submission
 > [Notion page link](https://www.notion.so/Case-Study-DEKA-Arm-Bionic-Arm-319674155b5e80dabf9ce281b05c4795?source=copy_link)
 
 # 3 Poster Presentation
@@ -14,7 +13,6 @@
 > Pls upload the Project Report PDF in Google form link
 
 # 5 Project Report in Claude Artifact
-> Submit the Claude Artifact URL link
 > [Claude Artifact URL link](https://claude.ai/public/artifacts/5ac36a7d-4411-4269-9558-9f87ca94d80b)
 
 # 6 Project Explanation Video
