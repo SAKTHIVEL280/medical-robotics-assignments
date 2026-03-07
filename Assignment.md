@@ -19,5 +19,4 @@
 > Pls upload the Video in Google form link
 
 # 7 Linkedin Post
-> Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> [LinkedIn post URL](https://www.linkedin.com/posts/sakthivel-e-1924a0292_4medcare-medicalrobotics-aiinhealthcare-activity-7436091518697791488-PzEe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEboOv4Bim4ehkPaxkygkPfn2ljDnxMiVu8)
